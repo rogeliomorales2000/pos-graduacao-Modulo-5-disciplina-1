@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+
+.env
+.env.*
+
+install.log
+output.txt
+
+.DS_Store
+Thumbs.db
